@@ -151,7 +151,7 @@ When you use Docker, you are creating and using images, containers, networks, vo
 
 #### Dockerfile
 
-Dockerfile is a file where you provide the steps to build your Docker Image. 
+Dockerfile is a file set of instructions, where you provide the steps to build your Docker Image. 
 
 
 #### Images
