@@ -148,6 +148,8 @@ Docker objects
 
 When you use Docker, you are creating and using images, containers, networks, volumes, plugins, and other objects. This section is a brief overview of some of those objects.
 
+Docker hub is basically a version control platform for storing and sharing the images
+
 
 #### Dockerfile
 
